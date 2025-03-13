@@ -2,7 +2,7 @@ Hi, I'm Kingsley Osemudiamne 👋
 
 👨‍💻 About Me
 
-I am a Master's student in Artificial Intelligence and Data Science with a strong background in statistics. My passion lies in leveraging data-driven solutions to solve real-world problems. With two years of experience as a Credit Data Analyst at BlueRidge Micro-Finance in Lagos, Nigeria, and my current role as a Graduate Assistant and Data Analyst at Columbus State University, I bring analytical expertise and a keen eye for insights.
+I am a Master's student in Artificial Intelligence and Data Science with a background in statistics. My passion lies in leveraging data-driven solutions to solve real-world problems. With two years of experience as a Data Analyst at BlueRidge Micro-Finance in Lagos, Nigeria, and currently a Graduate Assistant and Data Analyst at Columbus State University, I bring analytical expertise and a keen eye for insights.
 
 🚀 What I Do
 
