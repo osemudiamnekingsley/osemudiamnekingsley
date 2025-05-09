@@ -8,6 +8,7 @@ Hello, I am **Kingsley**, a Statistician and Data Analyst with expertise in Stat
 - **Generating reports** and performing ad-hoc data analysis using SQL
 - **Developing dashboards** on Tableau and Looker Studio
 - **Data analysis and reporting** using Google Sheets and Excel
+- AWS Cloud computing
 
 ## Skills
 - **Programming Language**: Python & SQL
