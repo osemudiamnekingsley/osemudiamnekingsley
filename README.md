@@ -1,4 +1,4 @@
-# I'm Kingsley Osemudiamne, a self-motivated data enthusiast with over three years of experience using Python, SQL, Power BI, and cloud platforms such as AWS and GCP to solve real-world business problems. I recently earned a Master’s degree in Applied Computer Science with a concentration in Artificial Intelligence and Data Science from Columbus State University. I am actively seeking opportunities where I can apply my skills to drive data-driven decision-making and deliver impactful solutions.
+## I'm Kingsley Osemudiamne, a self-motivated data enthusiast with over three years of experience using Python, SQL, Power BI, and cloud platforms such as AWS and GCP to solve real-world business problems. I recently earned a Master’s degree in Applied Computer Science with a concentration in Artificial Intelligence and Data Science from Columbus State University. I am actively seeking opportunities where I can apply my skills to drive data-driven decision-making and deliver impactful solutions.
 
 ## Tools
 
