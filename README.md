@@ -1,14 +1,14 @@
-# Introduction
-
-Hello, I am **Kingsley**, a Statistician and Data Analyst with expertise in Statistical data analysis, data visualizationa and reporting, Database Design, Data Modeling and SQL Query optimization
+# I'm Kingsley Osemudiamne, a self-motivated data enthusiast with over three years of experience using Python, SQL, Power BI, and cloud platforms such as AWS and GCP to solve real-world business problems. I recently earned a Master’s degree in Applied Computer Science with a concentration in Artificial Intelligence and Data Science from Columbus State University. I am actively seeking opportunities where I can apply my skills to drive data-driven decision-making and deliver impactful solutions.
 
 ## Tools
 
-- **Querying data using SQL**
-- **Generating reports** and performing ad-hoc data analysis using SQL
-- **Developing dashboards** on Tableau and Looker Studio
-- **Data analysis and reporting** using Google Sheets and Excel
-- AWS Cloud computing
+- **Databases: PostgreSQL, MS SQL, AWS S3, GCP GCS**
+- **Programming Languages: Pythom, SQL JAVA**
+- **Visualization: Power BI, 	Amazon QuickSight, Google Looker Studio **
+- **Data Warehousing: Snowflake, BigQuery, AWS Redshift** 
+- **Cloud Computing: AWS, GCP**
+- **Docker**
+- **Development Environment: Ubuntu, VS Code, Jupyter notebook**
 
 ## Skills
 - **Programming Language**: Python & SQL
