@@ -1,15 +1,15 @@
 ## INTRODUCTION
 
-I'm Kingsley Osemudiamne, a self-motivated and results-driven data enthusiast with over three years of hands-on experience leveraging Python, SQL, Power BI, and cloud platforms such as AWS and GCP to tackle real-world business challenges. My background spans data analysis, visualization, and cloud-based data engineering, allowing me to deliver actionable insights and support strategic decision-making across diverse industries.
+I'm Kingsley Osemudiamne, a self-motivated and results-driven data enthusiast with over three years of hands-on experience leveraging Python, SQL, Power BI, and cloud platforms such as AWS and GCP to tackle real-world business challenges.. My background spans data analysis, visualization, and reporting, allowing me to deliver actionable insights and support strategic decision-making across diverse industries.
 
 I recently earned a Master’s degree in Applied Computer Science with a concentration in Artificial Intelligence and Data Science from Columbus State University. During my graduate studies, I led and contributed to several projects involving predictive modeling, survey data analysis, and ETL pipeline development—integrating modern technologies like Apache Airflow, Docker, and PostgreSQL to streamline data workflows and improve reporting efficiency.
 
-I am actively seeking opportunities where I can take ownership of complex, data-related problems—whether through building scalable data infrastructure, uncovering trends through analytics, or developing ML-powered solutions. I am particularly passionate about roles that foster continuous learning and innovation while allowing me to make meaningful contributions through data.
+I am actively seeking opportunities where I can take ownership of complex data-related projects. I am particularly passionate about roles that foster continuous learning and innovation while allowing me to make meaningful contributions through data.
 
 ## Tools
 
 - **Databases: PostgreSQL, MS SQL, AWS S3, GCP GCS**
-- **Programming Languages: Pythom, SQL JAVA**
+- **Programming Languages: Pythom, SQL, Qualtric, SPSS, Excel**
 - **Visualization: Power BI, 	Amazon QuickSight, Google Looker Studio **
 - **Data Warehousing: Snowflake, BigQuery, AWS Redshift** 
 - **Cloud Computing: AWS, GCP**
